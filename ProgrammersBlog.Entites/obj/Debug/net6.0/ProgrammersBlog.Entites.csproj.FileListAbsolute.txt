@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\bin\Debug\net6.0\ProgrammersBlog.Entites.deps.json
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\bin\Debug\net6.0\ProgrammersBlog.Entites.dll
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\bin\Debug\net6.0\ProgrammersBlog.Entites.pdb
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\bin\Debug\net6.0\ProgrammersBlog.Shared.dll
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\bin\Debug\net6.0\ProgrammersBlog.Shared.pdb
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\ProgrammersBlog.Entites.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\ProgrammersBlog.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\ProgrammersBlog.Entites.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\ProgrammersBlog.Entites.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\ProgrammersBlog.Entites.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\ProgrammersBlog.Entites.csproj.CopyComplete
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\ProgrammersBlog.Entites.dll
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\refint\ProgrammersBlog.Entites.dll
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\ProgrammersBlog.Entites.pdb
+C:\Users\Admin\source\repos\ProgrammersBlog\ProgrammersBlog.Entites\obj\Debug\net6.0\ref\ProgrammersBlog.Entites.dll
