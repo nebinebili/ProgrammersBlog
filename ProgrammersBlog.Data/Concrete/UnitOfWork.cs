@@ -25,7 +25,7 @@ namespace ProgrammersBlog.Data.Concrete
 
         public IArticleRepository Articles => _articleRepository ?? new EfArticleRepository(_context);
 
-        public ICategoryRepository Categorys =>_categoryRepository ?? new EfCategoryRepository(_context);
+        public ICategoryRepository Categories =>_categoryRepository ?? new EfCategoryRepository(_context);
 
         public IRoleRepository Roles =>_roleRepository ?? new EfRoleRepository(_context);
 

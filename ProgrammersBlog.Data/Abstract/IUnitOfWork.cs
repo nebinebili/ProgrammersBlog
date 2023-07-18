@@ -9,7 +9,7 @@ namespace ProgrammersBlog.Data.Abstract
     public interface IUnitOfWork:IAsyncDisposable
     {
         IArticleRepository Articles { get; }
-        ICategoryRepository Categorys { get; }
+        ICategoryRepository Categories { get; }
         IRoleRepository Roles { get; }
         ICommentRepository Comments { get; }
         IUserRepository Users { get; }
